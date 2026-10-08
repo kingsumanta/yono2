@@ -9,7 +9,7 @@ BASE_URL = "https://spyeyeloots3.online/up_yono/"
 
 # License
 LICENSE_KEY = "LF-SUMANTA-002"
-SPYEYE_API_KEY = "TBRSUMANTHA1313"
+SPYEYE_API_KEY = "TBRSUMANTHA1414"
 SECRET_KEY = "7a5d8fda4b2e9c4d"
 LICENSE_SERVER = "https://spyeye-cv4o.onrender.com/api/check-license"
 
